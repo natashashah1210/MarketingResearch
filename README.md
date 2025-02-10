@@ -15,36 +15,36 @@ Welcome to the **Marketing Research** repository! This repository contains Pytho
 
 ### Python Scripts
 
-1. **1) regression_autos (2).py**
+ **1) regression_autos (2).py**
    - Implements regression analysis for predictive modeling.
 
-2. **2) LogisticRegression.py**
+ **2) LogisticRegression.py**
    - Performs logistic regression for binary classification problems.
 
-3. **3) clv.py**
+ **3) clv.py**
    - Calculates Customer Lifetime Value (CLV) for marketing strategies.
 
-4. **4) reddit_sentiment_analysis.py**
+ **4) reddit_sentiment_analysis.py**
    - Analyzes sentiment from Reddit data for consumer insights.
 
-5. **5) Cox.py**
+ **5) Cox.py**
    - Conducts Cox proportional hazards analysis.
 
-6. **6) YTextraction.py**
+ **6) YTextraction.py**
    - Extracts data from YouTube for video marketing analysis.
 
-7. **7) Time Series.py**
+ **7) Time Series.py**
    - Implements time series analysis for market trends.
 
-8. **8) ReviewAnalysis.py**
+ **8) ReviewAnalysis.py**
    - Processes and analyzes customer reviews for sentiment and trends.
 
-9. **9) ReviewAnalysis.py** (Duplicate or differently purposed?)
+ **9) ReviewAnalysis.py** (Duplicate or differently purposed?)
    - Verify if this differs from the prior review analysis script.
 
 ### Excel Files
 
-1. **9-Marketing Mix.xlsx**
+1. **Marketing Mix.xlsx**
    - Spreadsheet for analyzing the marketing mix (4Ps/7Ps).
 
 2. **Natasha Logistic, Cox, YT.xlsx**
